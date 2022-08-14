@@ -1,6 +1,6 @@
 # Projeto DIO Instagram Clone
 
-A interface foi alterada últilizando conhecimentos que adquiri nas aulas.
+A interface foi alterada utilizando conhecimentos que adquiri nas aulas.
 
 ## Links Utilizados
 
