@@ -1,4 +1,4 @@
-# Projeto Dio Instagram Clone
+# Projeto DIO Instagram Clone
 
 A interface foi alterada últilizando conhecimentos que adquiri nas aulas.
 
